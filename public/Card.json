@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "Photo": "https://i.ibb.co/Jy5wYvL/download.png",
+    "CourseName": "React Basics",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$99",
+    "Details": "Learn the basics of React.js, including components, state, and props.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 2,
+    "Photo": "https://i.ibb.co/LSj3Dch/download.jpg",
+    "CourseName": "Advanced React",
+    "Level": "Advanced",
+    "CourseType": "Online",
+    "CourseFee": "$199",
+    "Details": "Dive deeper into React.js with hooks, context API, and advanced patterns.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 3,
+    "Photo": "https://i.ibb.co/MDjDh9P/download-1.jpg",
+    "CourseName": "JavaScript Essentials",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$89",
+    "Details": "Master the fundamentals of JavaScript, the language of the web.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 4,
+    "Photo": "https://i.ibb.co/MDjDh9P/download-1.jpg",
+    "CourseName": "Node.js for Beginners",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$109",
+    "Details": "Get started with server-side development using Node.js.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 5,
+    "Photo": "https://i.ibb.co/LnHHwhg/download-1.png",
+    "CourseName": "Full Stack Development",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$249",
+    "Details": "Learn to build full-stack applications using MERN stack.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 6,
+    "Photo": "https://i.ibb.co/PND8wpt/download-3.jpg",
+    "CourseName": "Python Programming",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$99",
+    "Details": "An introduction to Python programming for beginners.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 7,
+    "Photo": "https://i.ibb.co/r6bz6pc/download-4.jpg",
+    "CourseName": "Data Science with Python",
+    "Level": "Advanced",
+    "CourseType": "Online",
+    "CourseFee": "$299",
+    "Details": "Explore data science concepts and techniques using Python.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 8,
+    "Photo": "https://i.ibb.co/3YyB240/download-5.jpg",
+    "CourseName": "Machine Learning A-Z",
+    "Level": "Advanced",
+    "CourseType": "Online",
+    "CourseFee": "$349",
+    "Details": "A comprehensive course on machine learning algorithms and applications.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 9,
+    "Photo": "https://i.ibb.co/LCp1gbt/download-6.jpg",
+    "CourseName": "HTML & CSS for Beginners",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$49",
+    "Details": "Learn how to build beautiful websites with HTML and CSS.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 10,
+    "Photo": "https://i.ibb.co/JKCVns1/images.jpg",
+    "CourseName": "Vue.js Essentials",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$129",
+    "Details": "Build dynamic web applications using Vue.js.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 11,
+    "Photo": "https://i.ibb.co/z528yr0/download-2.png",
+    "CourseName": "Angular Mastery",
+    "Level": "Advanced",
+    "CourseType": "Online",
+    "CourseFee": "$219",
+    "Details": "Become an expert in Angular for building complex applications.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 12,
+    "Photo": "https://i.ibb.co/tZQmys9/download-3.png",
+    "CourseName": "Django for Web Development",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$139",
+    "Details": "Learn to build web applications using the Django framework.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 13,
+    "Photo": "https://i.ibb.co/XDmntJq/download-4.png",
+    "CourseName": "Swift Programming",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$109",
+    "Details": "Get started with iOS app development using Swift.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 14,
+    "Photo": "https://i.ibb.co/YyqSyzY/download-7.jpg",
+    "CourseName": "React Native Development",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$189",
+    "Details": "Develop mobile applications using React Native.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 15,
+    "Photo": "https://i.ibb.co/HpFLgtM/images-1.jpg",
+    "CourseName": "SQL for Data Analysis",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$99",
+    "Details": "Learn SQL basics and data analysis techniques.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 16,
+    "Photo": "https://i.ibb.co/SRpzZdT/download-8.jpg",
+    "CourseName": "Introduction to Cybersecurity",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$119",
+    "Details": "Understand the basics of cybersecurity and how to protect systems.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 17,
+    "Photo": "https://i.ibb.co/YdFdPdW/download-5.png",
+    "CourseName": "Cloud Computing Fundamentals",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$149",
+    "Details": "Learn the basics of cloud computing and popular cloud services.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 18,
+    "Photo": "https://i.ibb.co/19b8H3X/download-9.jpg",
+    "CourseName": "Digital Marketing 101",
+    "Level": "Beginner",
+    "CourseType": "Online",
+    "CourseFee": "$79",
+    "Details": "Introduction to digital marketing strategies and tools.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 19,
+    "Photo": "https://i.ibb.co/60trJTM/download-10.jpg",
+    "CourseName": "Game Development with Unity",
+    "Level": "Intermediate",
+    "CourseType": "Online",
+    "CourseFee": "$199",
+    "Details": "Learn game development using the Unity game engine.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  },
+  {
+    "Id": 20,
+    "Photo": "https://i.ibb.co/QDVYyFk/download-11.jpg",
+    "CourseName": "Blockchain Technology",
+    "Level": "Advanced",
+    "CourseType": "Online",
+    "CourseFee": "$249",
+    "Details": "Explore blockchain technology and its applications in various fields.",
+    "Buttons": ["Enroll Now", "Learn More"]
+  }
+]
