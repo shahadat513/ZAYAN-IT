@@ -5,6 +5,7 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Navbar from './Component/Navbar/Navbar.jsx';
 import Home from './Component/Home/Home.jsx';
+import AllAssignment from './Component/Home/AllAssignment.jsx'
 
 const routes = createBrowserRouter([
   {
@@ -14,7 +15,13 @@ const routes = createBrowserRouter([
       {
         path : "/",
         element : <Home></Home>
+      },
+      {
+        path: "/assignments",
+        element: <AllAssignment></AllAssignment>,
+        loader : ()=>{ return fetch('/Card.json')}
       }
+
     ]
   },
 ]);

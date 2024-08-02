@@ -9,26 +9,34 @@ const Navbar = () => {
             </div>
             <div className='my-auto '>
                 <ul className='flex gap-5 '>
-                    <NavLink>
+                    <NavLink to={'/'} className={({ isActive, isPending }) =>
+                        isPending ? "pending" : isActive ? "text-orange-700 underline" : ""
+                    }>
                         <li className='text-lg font-medium hover:text-orange-600 hover:duration-300
                         '>Home</li>
                     </NavLink>
-                    <NavLink>
+                    <NavLink to={'/assignments'} className={({ isActive, isPending }) =>
+                        isPending ? "pending" : isActive ? "text-orange-700 underline" : ""
+                    }>
                         <li className='text-lg font-medium hover:text-orange-600 hover:duration-300
                         '>Assignments</li>
                     </NavLink>
-                    <NavLink>
+                    <NavLink to={'/services'} className={({ isActive, isPending }) =>
+                        isPending ? "pending" : isActive ? "text-orange-700 underline" : ""
+                    } >
                         <li className='text-lg font-medium hover:text-orange-600 hover:duration-300
                         '>Why we use this</li>
                     </NavLink>
-                    <NavLink>
+                    <NavLink to={'/about'} className={({ isActive, isPending }) =>
+                        isPending ? "pending" : isActive ? "text-orange-700 underline" : ""
+                    }>
                         <li className='text-lg font-medium hover:text-orange-600 hover:duration-300
                         '>About Us</li>
                     </NavLink>
                 </ul>
             </div>
             <button className="btn my-auto bg-purple-800 text-white font-semibold ">Log In</button>
-            
+
         </div>
     );
 }

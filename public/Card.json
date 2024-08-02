@@ -6,6 +6,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$99",
+    "Marks": "60",
     "Details": "Learn the basics of React.js, including components, state, and props.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -16,6 +17,7 @@
     "Level": "Advanced",
     "CourseType": "Online",
     "CourseFee": "$199",
+    "Marks": "90",
     "Details": "Dive deeper into React.js with hooks, context API, and advanced patterns.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -26,6 +28,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$89",
+    "Marks": "60",
     "Details": "Master the fundamentals of JavaScript, the language of the web.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -36,6 +39,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$109",
+    "Marks": "120",
     "Details": "Get started with server-side development using Node.js.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -46,6 +50,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$249",
+    "Marks": "120",
     "Details": "Learn to build full-stack applications using MERN stack.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -56,6 +61,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$99",
+    "Marks": "60",
     "Details": "An introduction to Python programming for beginners.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -66,6 +72,7 @@
     "Level": "Advanced",
     "CourseType": "Online",
     "CourseFee": "$299",
+    "Marks": "120",
     "Details": "Explore data science concepts and techniques using Python.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -76,6 +83,7 @@
     "Level": "Advanced",
     "CourseType": "Online",
     "CourseFee": "$349",
+    "Marks": "60",
     "Details": "A comprehensive course on machine learning algorithms and applications.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -86,6 +94,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$49",
+    "Marks": "60",
     "Details": "Learn how to build beautiful websites with HTML and CSS.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -96,6 +105,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$129",
+    "Marks": "60",
     "Details": "Build dynamic web applications using Vue.js.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -106,6 +116,7 @@
     "Level": "Advanced",
     "CourseType": "Online",
     "CourseFee": "$219",
+    "Marks": "120",
     "Details": "Become an expert in Angular for building complex applications.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -116,6 +127,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$139",
+    "Marks": "60",
     "Details": "Learn to build web applications using the Django framework.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -126,6 +138,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$109",
+    "Marks": "60",
     "Details": "Get started with iOS app development using Swift.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -136,6 +149,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$189",
+    "Marks": "120",
     "Details": "Develop mobile applications using React Native.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -146,6 +160,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$99",
+    "Marks": "60",
     "Details": "Learn SQL basics and data analysis techniques.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -156,6 +171,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$119",
+    "Marks": "120",
     "Details": "Understand the basics of cybersecurity and how to protect systems.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -166,6 +182,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$149",
+    "Marks": "90",
     "Details": "Learn the basics of cloud computing and popular cloud services.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -176,6 +193,7 @@
     "Level": "Beginner",
     "CourseType": "Online",
     "CourseFee": "$79",
+    "Marks": "60",
     "Details": "Introduction to digital marketing strategies and tools.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -186,6 +204,7 @@
     "Level": "Intermediate",
     "CourseType": "Online",
     "CourseFee": "$199",
+    "Marks": "60",
     "Details": "Learn game development using the Unity game engine.",
     "Buttons": ["Enroll Now", "Learn More"]
   },
@@ -196,6 +215,7 @@
     "Level": "Advanced",
     "CourseType": "Online",
     "CourseFee": "$249",
+    "Marks": "60",
     "Details": "Explore blockchain technology and its applications in various fields.",
     "Buttons": ["Enroll Now", "Learn More"]
   }
